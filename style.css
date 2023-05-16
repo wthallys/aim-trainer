@@ -1,0 +1,24 @@
+* {
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(14, 14, 63);
+}
+
+.target {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 45px;
+  border-radius: 50px;
+  background-color: red;
+}
